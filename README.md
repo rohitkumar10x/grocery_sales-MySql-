@@ -1,4 +1,4 @@
-# 📄 Project Documentation — Grocery Sales Database  
+# 📄 Project Documentation — Grocery Sales Analysis  
 
 ## 1. Project Overview  
 This project focuses on analyzing a grocery sales dataset using SQL.  
